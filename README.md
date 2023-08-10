@@ -1,1 +1,1 @@
-# link_prediction
+# link_prediction_over_coarsened_graph
